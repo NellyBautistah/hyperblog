@@ -1,0 +1,78 @@
+[33mcommit 56d5821d6dcee22e87b9c9ee3cff01aaac015dda[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Fri Jan 22 00:14:35 2021 -0600
+
+    Volví a una tipografía menos controversial
+
+[33mcommit bfdfb13ffc51c4afa9fed1f95f4e9c452626da80[m
+Merge: f9651ee e6e9496
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Fri Jan 22 00:03:09 2021 -0600
+
+    Merge branch cabecera
+
+[33mcommit f9651eedef660d042e046f2f3f9639cf08028e04[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Thu Jan 21 23:56:52 2021 -0600
+
+    Parrafo completo en version master
+
+[33mcommit 0d157fe691fbd5c41cf05708c44de80806a661f5[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Thu Jan 21 23:27:21 2021 -0600
+
+    Agregado el contenido adicional del blog
+
+[33mcommit e6e94968b3f594c3d809f9fc8c55d59c0d946a70[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Thu Jan 21 23:16:43 2021 -0600
+
+    Finalizada la cabecera con diseño azul
+
+[33mcommit 3a5fe3cbc20d1343f61f90198e49024aff66d3be[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Thu Jan 21 21:56:17 2021 -0600
+
+    Estructura inicial de la cabecera
+
+[33mcommit 912b6b5d10a10349277ce6cd38886c59a58f8eca[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Thu Jan 21 21:31:16 2021 -0600
+
+    Commit al master del blogpost en su version mas reciente
+
+[33mcommit 6af627f03f3ba7529398f316458ff0b2e73259ba[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Thu Jan 21 16:43:35 2021 -0600
+
+    Reemplazo de una versión de la historia por otra
+
+[33mcommit 4a3a323357e03da39c8858f750349ca150ccbb09[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Thu Jan 21 16:16:17 2021 -0600
+
+    Cambio de maestria
+
+[33mcommit 0f1675e9f35b42a8b88998368f6945ea7138d85c[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Thu Jan 21 16:15:06 2021 -0600
+
+    Cambio de vida
+
+[33mcommit 12251ae989a3ef448de7e8af8e06b95509cb252b[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Thu Jan 21 16:10:03 2021 -0600
+
+    Arranco mi proyecto real con html y css
+
+[33mcommit b79fb8ac42532571d46aaffaf320fc1e693d2a8e[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Thu Jan 21 12:54:39 2021 -0600
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+[33mcommit 3d0a9339d7d2929f51234b8695eb84518e653966[m
+Author: Nelly Bautista <nbautista@amphitech.com.mx>
+Date:   Thu Jan 21 12:44:11 2021 -0600
+
+    Este es el primer commit del archivo
